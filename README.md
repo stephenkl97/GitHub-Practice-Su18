@@ -7,7 +7,7 @@
     - [repo] >> settings >> [scroll to bottom] >> create website from master branch  
     - choose a style template 
     - note the website url  
-    - don't modify content, just use filler content provided for now  
+    - modify content if you like, but it's fine to use filler content provided for now  
 - Locate group repo: **GitHub-Practice-Su18**
     - Find "mdbeckman" in GitHub and locate the "GitHub-Practice-Su18" class repo
     - **Go to "issues" to review the issues list (find your name)**
@@ -20,10 +20,10 @@
             - select "Create a new branch for this commit and start a pull request."   
             - write a **descriptive** commit message (e.g. "added Matt Beckmans info to table; resolves issue #1")  
             - click green button "Propose file change" & start pull request  
-    - **check your work**
-            - did your issue update to "closed"?
-            - does your link work (wrap url in "<" and ">" to activate link on actual website)?  
-- **Important**: Your entry will NOT appear on the group table right away.  Once you submit the "pull request" the owner of the repo (me) needs to approve and merge it into the "master" before your entry will appear in the class table on the website. 
+    - check your work
+            - did your issue update to "closed"
+            - does your link work (wrap url in "<" and ">" to activate link on actual website)  
+- **Important**: Your entry will NOT appear on the class table right away.  Once you submit the "pull request" the owner of the repo (me) needs to approve and merge it into the "master" before your entry will appear in the class table on the website. 
 
 <br>
 
@@ -32,6 +32,7 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                | 
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
+| Christine Gao | jiajungao |  |
 | TJ McIntyre | tjmcintyre |  |
 | Sabrina Wang    | sabrinawang06  | <https://sabrinawang06.github.io/484project/>     |
 | Ryan Voyack     | ryanvoyack     | <https://ryanvoyack.github.io/Data-Analysis-Ryan-Voyack/> |
