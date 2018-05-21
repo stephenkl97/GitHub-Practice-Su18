@@ -10,15 +10,15 @@
     - modify content if you like, but it's fine to use filler content provided for now  
 - Locate group repo: **GitHub-Practice-Su18**
     - Find "mdbeckman" in GitHub and locate the "GitHub-Practice-Su18" class repo
-    - Go to "issues" to review the issues list (find your name)
+    - **Go to "issues" to review the issues list (find your name)**
     - Click on "README.md" >> Edit (pencil icon in upper right)
 - Add a row in the table below with your information   
     - first & last name  
     - github id  
     - url for GitHub Pages site from your GitHub repo (**NOT** a url to the repo itself)
     - commit your changes and submit pull request   
-            - write a **descriptive** commit message (e.g. "added Matt Beckmans info to table; resolves issue #1")  
             - select "Create a new branch for this commit and start a pull request."   
+            - write a **descriptive** commit message (e.g. "added Matt Beckmans info to table; resolves issue #1")  
             - click green button "Propose file change" & start pull request  
     - check your work
             - did your issue update to "closed"
