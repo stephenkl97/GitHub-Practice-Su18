@@ -32,6 +32,7 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                | 
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
+| Sabrina Wang    | sabrinawang06  | <https://sabrinawang06.github.io/484project/>     |
 |  |  |  |
 
 # Git integration with RStudio
