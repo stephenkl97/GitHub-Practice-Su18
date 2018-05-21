@@ -32,7 +32,7 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                | 
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
-|  |  |  |
+| Ryan Voyack     | ryanvoyack     | <https://ryanvoyack.github.io/Data-Analysis-Ryan-Voyack/> |
 
 # Git integration with RStudio
 
