@@ -39,6 +39,7 @@
 | Sabrina Wang    | sabrinawang06  | <https://sabrinawang06.github.io/484project/>     |
 | Ryan Voyack     | ryanvoyack     | <https://ryanvoyack.github.io/Data-Analysis-Ryan-Voyack/> |
 | Yubaihe Zhou    | YubaiheYJZ5134 | <https://yubaiheyjz5134.github.io/getstarted/>   |
+| Stephen Li      | stephenkl97    |
 # Git integration with RStudio
 
 <http://happygitwithr.com/index.html>
